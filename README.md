@@ -80,4 +80,11 @@ The following is a description of some parameters in the configuration file:
 
 
 ## Citation
-Coming soon...
+```
+@article{ba2024exposing,
+  title={Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection},
+  author={Ba, Zhongjie and Liu, Qingyu and Liu, Zhenguang and Wu, Shuang and Lin, Feng and Lu, Li and Ren, Kui},
+  journal={arXiv preprint arXiv:2403.01786},
+  year={2024}
+}
+```
